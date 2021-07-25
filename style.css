@@ -58,7 +58,7 @@
 .container .main {
     height: 1350vh;
     width: 74vw;
-    background-color: hsl(0deg 0% 9% / 34%);
+    background: linear-gradient(90deg,hsl(0deg 0% 9% / 76%),black);
     border-radius: 8px;
     padding: 60px;
     text-align: justify;
